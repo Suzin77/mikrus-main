@@ -74,5 +74,12 @@ main > .tagline {
 	height: 2.65rem;
 }
 
-footer {position:fixed;text-align:center;bottom:10px;display:block;width:100%;font-size:14px;color:#fff;}
+footer {
+	position:fixed;
+	text-align:center;
+	bottom:10px;
+	display:block;
+	width:100%;
+	font-size:14px;
+	color:#fff;}
 footer a {color:#fff;text-decoration:underline;}
