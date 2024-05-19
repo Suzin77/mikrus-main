@@ -382,6 +382,10 @@ h6 {
 }
 
 @media (max-width: 575px) {
+  #hero {
+    background-position: 20% 50%;
+  }
+
   #hero h1 {
     font-size: 40px;
   }
